@@ -85,7 +85,7 @@ admin_34 : "Failed to seek the current stream."
 
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "Hello, My name is {0}.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
+start_2 : "🌷𝐇ᴇʏ 𝐌ʏ 𝐍ᴀᴍᴇ 𝒊s 🍧 {0}.\n\n♦️𝐈ɴ 𝐀 ➻ ᴀ ғᴀsᴛ ᴀɴᴅ ᴘᴏᴡᴇʀғᴜʟ ʙωғ ᴠᴘs ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ 👑\n\n❣️ꜰʀᴇᴇ ᴍᴜsɪᴄ ʙσт ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💒⏎‌"
 start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
 start_4 : "{0}'s Owner[{1}] has just joined your chat."
 start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
@@ -152,7 +152,7 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "🔄 Processing Query... Please Wait!"
+play_1 : " » sᴇᴀʀᴄʜɪɴɢ ғᴏʀ ʏᴏᴜ ᴍᴏɪ ʟᴜʙ 🌹🎙️🕹️🥀🌷 ᴡᴀɪᴛ..."
 play_2 : "**🏷Channel Play Mode**\n\n🔄 Processing Query... Please Wait!\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
@@ -248,7 +248,7 @@ stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️
 
 #General Buttons
 CLOSE_BUTTON  : "🗑 Close"
-CLOSEMENU_BUTTON  : "🗑 Close Menu"
+CLOSEMENU_BUTTON  : ". ᴄʟᴏsᴇ ."
 BACK_BUTTON : "⬅ Back"
 UNBAN_BUTTON : "🗑 Unban Assistant"
 
@@ -260,7 +260,7 @@ S_B_1 : "🗒 Commands"
 S_B_2 : "🔧 Settings"
 S_B_3 : "📨 Support"
 S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group"
+S_B_5 : "⛩️ Add me to your Group ⛩️"
 S_B_6 : "💡 Git Repo"
 S_B_7 : "👤 Bot Owner"
 S_B_8 : "🔎 How to Use? Commands Menu."
@@ -286,8 +286,8 @@ P_B_4 : "🎵 Play Playlist"
 
 #Playlist
 PL_B_1 : "🚀 Play Playlist"
-PL_B_2 : "✚ Playlists"
-PL_B_3 : "✚ CPanel"
+PL_B_2 : " 🔇 "
+PL_B_3 : " 🔊 "
 PL_B_4 : "📡 Play Mode"
 PL_B_5 : "🔄 Del Whole Playlist"
 PL_B_6 : "↗️ Delete Playlist"
